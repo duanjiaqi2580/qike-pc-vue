@@ -1,0 +1,10 @@
+需要安装有vue,node,和git命令行工具
+
+
+运行前须打开文件夹右键打开Git Bash Here执行npm install 进行下载依赖包.
+
+
+安装完成后在git或cmd中输入npm run sever打开服务器,
+
+后打开浏览器输入服务器提供的localhost即可
+例如:http://localhost:8080
